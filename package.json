@@ -1,6 +1,6 @@
 {
   "name": "postcss-assemble-form-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A PostCSS plugin that helps with the layout of Assemble Forms.",
   "keywords": [
     "postcss",
